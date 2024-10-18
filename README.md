@@ -1,0 +1,2 @@
+# rubytriangles
+Triangle utility library
