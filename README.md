@@ -1,2 +1,2 @@
 # rubytriangles
-Triangle utility library
+Polygon triangulation library.  Implement earclipping, earcutting and delaunay
